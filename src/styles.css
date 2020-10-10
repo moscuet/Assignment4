@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+}
+.col {
+  padding: 0px;
+  margin: 0px;
+  font-size: 40px;
+  border: 1px solid grey;
+  height: 60px;
+  width: 60px;
+}
+.row {
+  margin: 0px;
+}
